@@ -1,0 +1,26 @@
+body{
+height: auto;
+width: auto;
+}
+
+    #nav {
+        margin: 0px auto 0px auto;
+        padding: 0px;
+      background-color: ghostwhite;
+    } 
+#navbar
+{
+position: fixed;
+background-color: rgb(191, 204, 200);
+margin: 50px;
+padding: 20px;
+display:inline-block ;
+width: 1000;
+
+
+}
+
+
+
+
+
